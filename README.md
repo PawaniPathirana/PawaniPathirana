@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pawani Pathirana</h1>
-<h3 align="center">IT undergraduate</h3>
+<h3 align="center">IT Undergraduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawanipathirana&label=Profile%20views&color=0e75b6&style=flat" alt="pawanipathirana" /> </p>
 
