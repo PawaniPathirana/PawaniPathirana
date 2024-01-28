@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently pursuing **BSc.(Hons.) in Information Technology at the University of Kelaniya, Sri Lanka**
 
-- 💬 Ask me about **PHP, React, JavaScript, Python**
+- 💬 Ask me about **PHP, React, JavaScript, Java**
 
 - 📫 How to reach me **pawanipathirana1998@gmail.com**
 
